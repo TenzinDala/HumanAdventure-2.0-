@@ -1,0 +1,15 @@
+D:\PRG\Lab01_Assignment\HumanAdventure-2.0-\HumanAdventure\HumanAdventure\obj\Debug\net6.0\HumanAdventure.csproj.AssemblyReference.cache
+D:\PRG\Lab01_Assignment\HumanAdventure-2.0-\HumanAdventure\HumanAdventure\obj\Debug\net6.0\HumanAdventure.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRG\Lab01_Assignment\HumanAdventure-2.0-\HumanAdventure\HumanAdventure\obj\Debug\net6.0\HumanAdventure.AssemblyInfoInputs.cache
+D:\PRG\Lab01_Assignment\HumanAdventure-2.0-\HumanAdventure\HumanAdventure\obj\Debug\net6.0\HumanAdventure.AssemblyInfo.cs
+D:\PRG\Lab01_Assignment\HumanAdventure-2.0-\HumanAdventure\HumanAdventure\obj\Debug\net6.0\HumanAdventure.csproj.CoreCompileInputs.cache
+D:\PRG\Lab01_Assignment\HumanAdventure-2.0-\HumanAdventure\HumanAdventure\bin\Debug\net6.0\HumanAdventure.exe
+D:\PRG\Lab01_Assignment\HumanAdventure-2.0-\HumanAdventure\HumanAdventure\bin\Debug\net6.0\HumanAdventure.deps.json
+D:\PRG\Lab01_Assignment\HumanAdventure-2.0-\HumanAdventure\HumanAdventure\bin\Debug\net6.0\HumanAdventure.runtimeconfig.json
+D:\PRG\Lab01_Assignment\HumanAdventure-2.0-\HumanAdventure\HumanAdventure\bin\Debug\net6.0\HumanAdventure.dll
+D:\PRG\Lab01_Assignment\HumanAdventure-2.0-\HumanAdventure\HumanAdventure\bin\Debug\net6.0\HumanAdventure.pdb
+D:\PRG\Lab01_Assignment\HumanAdventure-2.0-\HumanAdventure\HumanAdventure\obj\Debug\net6.0\HumanAdventure.dll
+D:\PRG\Lab01_Assignment\HumanAdventure-2.0-\HumanAdventure\HumanAdventure\obj\Debug\net6.0\refint\HumanAdventure.dll
+D:\PRG\Lab01_Assignment\HumanAdventure-2.0-\HumanAdventure\HumanAdventure\obj\Debug\net6.0\HumanAdventure.pdb
+D:\PRG\Lab01_Assignment\HumanAdventure-2.0-\HumanAdventure\HumanAdventure\obj\Debug\net6.0\HumanAdventure.genruntimeconfig.cache
+D:\PRG\Lab01_Assignment\HumanAdventure-2.0-\HumanAdventure\HumanAdventure\obj\Debug\net6.0\ref\HumanAdventure.dll

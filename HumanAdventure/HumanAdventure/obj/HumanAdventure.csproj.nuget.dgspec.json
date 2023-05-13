@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HumanAdventure\\HumanAdventure\\HumanAdventure\\HumanAdventure\\HumanAdventure.csproj": {}
+    "D:\\PRG\\Lab01_Assignment\\HumanAdventure-2.0-\\HumanAdventure\\HumanAdventure\\HumanAdventure.csproj": {}
   },
   "projects": {
-    "D:\\HumanAdventure\\HumanAdventure\\HumanAdventure\\HumanAdventure\\HumanAdventure.csproj": {
+    "D:\\PRG\\Lab01_Assignment\\HumanAdventure-2.0-\\HumanAdventure\\HumanAdventure\\HumanAdventure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HumanAdventure\\HumanAdventure\\HumanAdventure\\HumanAdventure\\HumanAdventure.csproj",
+        "projectUniqueName": "D:\\PRG\\Lab01_Assignment\\HumanAdventure-2.0-\\HumanAdventure\\HumanAdventure\\HumanAdventure.csproj",
         "projectName": "HumanAdventure",
-        "projectPath": "D:\\HumanAdventure\\HumanAdventure\\HumanAdventure\\HumanAdventure\\HumanAdventure.csproj",
+        "projectPath": "D:\\PRG\\Lab01_Assignment\\HumanAdventure-2.0-\\HumanAdventure\\HumanAdventure\\HumanAdventure.csproj",
         "packagesPath": "C:\\Users\\tenzi\\.nuget\\packages\\",
-        "outputPath": "D:\\HumanAdventure\\HumanAdventure\\HumanAdventure\\HumanAdventure\\obj\\",
+        "outputPath": "D:\\PRG\\Lab01_Assignment\\HumanAdventure-2.0-\\HumanAdventure\\HumanAdventure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tenzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
