@@ -14,11 +14,14 @@ namespace HumanNamespace
 
         public string Pronoun { get; set; }
 
+        public int Strength;
+
         public Human(string name, int age, string gender)
         {
             this.Name = name;
             this.Age = age;
             this.Gender = gender;
+            this.Strength = 0;
             if (gender == "male")
             {
                 this.Pronoun = "he";
@@ -42,13 +45,18 @@ namespace HumanNamespace
             }
         }
         //Exercise if and else for time. If too long then you die.
-        public void Exercise(string Time) 
-        { 
-        
-        }
-        public void Fight(string Time)
+        public bool Exercise(int Time) 
         {
-
+            if (Time >= 15)
+            {
+                this.Strength += 100;
+                return true
+;            }
+            else
+            {
+                this.Strength += 10;
+                return false;
+            }
         }
         public bool Path(string path) { 
             path = path.ToLower();
@@ -64,10 +72,24 @@ namespace HumanNamespace
         public bool FightorFlight(string fightorflight) {
             if (fightorflight == "fight")
             {
-                return false;
+                return true;
             }
             else {
-                return true;
+                return false;
+            }
+        }
+
+        public void ChangeGender()
+        { 
+            if(this.Gender == "male")
+            {
+                this.Gender = "female";
+                this.Pronoun = "she";
+            }
+            else
+            {
+                this.Gender = "male";
+                this.Pronoun = "he";
             }
         }
     }

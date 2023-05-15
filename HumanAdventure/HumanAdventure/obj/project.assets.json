@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\tenzi\\.nuget\\packages\\": {}
+    "C:\\Users\\tdala2\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PRG\\Lab01_Assignment\\HumanAdventure-2.0-\\HumanAdventure\\HumanAdventure\\HumanAdventure.csproj",
+      "projectUniqueName": "C:\\Users\\tdala2\\Source\\Repos\\TenzinDala\\HumanAdventure-2.0-\\HumanAdventure\\HumanAdventure\\HumanAdventure.csproj",
       "projectName": "HumanAdventure",
-      "projectPath": "D:\\PRG\\Lab01_Assignment\\HumanAdventure-2.0-\\HumanAdventure\\HumanAdventure\\HumanAdventure.csproj",
-      "packagesPath": "C:\\Users\\tenzi\\.nuget\\packages\\",
-      "outputPath": "D:\\PRG\\Lab01_Assignment\\HumanAdventure-2.0-\\HumanAdventure\\HumanAdventure\\obj\\",
+      "projectPath": "C:\\Users\\tdala2\\Source\\Repos\\TenzinDala\\HumanAdventure-2.0-\\HumanAdventure\\HumanAdventure\\HumanAdventure.csproj",
+      "packagesPath": "C:\\Users\\tdala2\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tdala2\\Source\\Repos\\TenzinDala\\HumanAdventure-2.0-\\HumanAdventure\\HumanAdventure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\tenzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tdala2\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
