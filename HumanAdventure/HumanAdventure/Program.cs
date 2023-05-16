@@ -1,5 +1,7 @@
 ﻿//Programmer - Tenzin Dala
 //StudentID - 134244219
+//Description - Lab01 Assignment
+//COURSE: PRG455 SECTION -NAB
 
 
 using HumanNamespace;
@@ -56,7 +58,7 @@ namespace HumanAdventure
                     Console.WriteLine($"{human.Name} must change gender to female for cooking the Mushrooms proficiently.\n");
                     Console.ReadKey();
                     human.ChangeGender();
-                    Console.WriteLine($"{human.Name}'s Gender has been changed!!!\n");
+                    Console.WriteLine($"{human.Name}'s Gender and Pronouns have been changed!!!\n");
                     Console.ReadKey();
                 }
                 Console.WriteLine($"\t{human.Name} ate loads of Mushrooms which was enough to satisfy the hunger.\n");
@@ -79,10 +81,10 @@ namespace HumanAdventure
                     {
                         if(human.Gender == "female")
                         {
-                            Console.WriteLine($"{human.Name} must change the Gender to male for fighty this creature.\n");
+                            Console.WriteLine($"{human.Name} must change the Gender to male for the fight.\n");
                             Console.ReadKey();
                             human.ChangeGender();
-                            Console.WriteLine($"{human.Name}'s Gender has been changed!!!\n");
+                            Console.WriteLine($"{human.Name}'s Gender and Pronouns have been changed!!!\n");
                             Console.ReadKey();
                         }
                         Console.WriteLine($"\t{human.Pronoun} tries to stab the Tiger as the mighty beast lunges over!\n");
@@ -93,23 +95,35 @@ namespace HumanAdventure
                         bool deathExercise = human.Exercise(time);
                         if (deathExercise)
                         {
-                            Console.WriteLine($"\t{human.Name} strength increased to {human.Strength} points.");
+                            Console.WriteLine($"\t{human.Name}'s strength increased.");
                             Console.WriteLine($"\tThis was enough power to split the Tiger with his bare hands.\n\n");
+                            Console.ReadKey();
+                            Console.WriteLine($"Battling the vicious Tiger and treachorous booby traps, {human.Name} finally arrived at the hidden location.\n\n");
+                            Console.ReadKey();
+                            Console.WriteLine($"With trembling hands, he unearthed a small chest, gleaming with gold and precious gemstones.\n\n");
+                            Console.ReadKey();
+                            Console.WriteLine($"Overwhelmed with joy, {human.Name} realized that the true treasure lay in the memories and experiences gained on his extraordinary quest\n\n");
+                            Console.ReadKey();
+                            Console.WriteLine("The END!!!\n");
 
                         }
                         else {
 
-                            Console.WriteLine($"\t{human.Name} strength increased to {human.Strength} points.");
+                            Console.WriteLine($"\t{human.Name}'s strength increased.");
                             Console.WriteLine($"\t{human.Pronoun} tries to fight the tiger but the strength was not enough.\n");
                             Console.WriteLine($"\tTiger kills {human.Name} painfully and satisfies his hunger.\n");
+                            Console.WriteLine("\tThe End\n");
 
                         }
 
                     }
                     else {
-                        Console.WriteLine("\tDied!!!");
+                        Console.WriteLine($"\t{human.Name} tries to flee however, Tiger was fast enough to catch up!!!");
+                        Console.ReadKey();
+                        Console.WriteLine($"\tTiger kills {human.Name} painfully and satisfies his hunger.\n");
+                        Console.WriteLine("\tThe End\n");
                     }
-                    
+
                 }
                 else {
                     Console.WriteLine($"\t{human.Name} tries to walk on the river shore to avoid the crocs but unfortunately Slips and Falls in the river just to be consumed by the vicious Crocodiles.\n");
